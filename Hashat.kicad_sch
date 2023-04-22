@@ -385,7 +385,7 @@
   (symbol (lib_id "Hashat:PJ-202AH") (at 44.45 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bb112d50-0754-4a05-8092-26952ca89fc7)
-    (property "Reference" "J4" (at 41.2142 39.37 0)
+    (property "Reference" "J2" (at 41.2142 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "PJ-202AH" (at 41.2142 41.91 0)
@@ -409,7 +409,7 @@
     (instances
       (project "Hashat"
         (path "/00740941-7ad8-466a-a267-188591e2b5c4"
-          (reference "J4") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
