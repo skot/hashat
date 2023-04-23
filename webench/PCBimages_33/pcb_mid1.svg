@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312.4px" height="152px" viewbox="0 0 312.4 152" version="1.1">
+  <title>LM2_5085_BUCK_DGN_A_mid1: null</title>
+  <desc>LM2_5085_BUCK_DGN_A WebTHERM&amp;reg; Board Layout file</desc>
+  <g id="board" fill-opacity="1" transform="scale(0.1016,-0.1016) translate(0,-1501.0)">
+    <rect x="0" y="0" width="3075" height="1501" stroke="#006600" stroke-width="0" fill="#006600" type="Fill" layer="PCB" />
+    <polygon net="10" points="2190,300 1505,300 1505,1240 2190,1240" stroke-width="0.0" stroke="#ff9900" fill="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="3060,15 10,15 10,1485 1480,1485 1480,888 1476,885 1475,885 1467,883 1460,879 1456,872 1455,865 1456,857 1460,850 1467,846 1475,844 1476,844 1480,841 1480,275 2220,275 2220,1255 1485,1255 1485,1485 3060,1485" stroke-width="0.0" stroke="#ff9900" fill="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="1421,1216 1413,1214 1406,1210 1402,1203 1400,1196 1402,1188 1406,1181 1413,1177 1421,1175 1428,1177 1435,1181 1439,1188 1441,1196 1439,1203 1435,1210 1428,1214" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="862,1084 854,1082 847,1078 843,1071 841,1064 843,1056 847,1049 854,1045 862,1043 869,1045 876,1049 880,1056 882,1064 880,1071 876,1078 869,1082" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="107,1146 93,1145 81,1139 70,1131 62,1120 56,1108 55,1095 56,1081 62,1069 70,1058 81,1050 93,1044 107,1043 120,1044 132,1050 143,1058 151,1069 157,1081 158,1095 157,1108 151,1120 143,1131 132,1139 120,1145" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="1252,1142 1244,1140 1237,1136 1233,1129 1231,1122 1233,1114 1237,1107 1241,1104 1241,1099 1238,1097 1234,1090 1232,1083 1234,1075 1238,1068 1239,1067 1239,1062 1237,1061 1233,1054 1231,1047 1233,1039 1237,1032 1240,1030 1240,1025 1238,1024 1234,1017 1232,1010 1234,1002 1238,995 1245,991 1253,989 1260,991 1267,995 1271,1002 1273,1010 1271,1017 1267,1024 1264,1026 1264,1031 1266,1032 1270,1039 1272,1047 1270,1054 1266,1061 1265,1062 1265,1067 1267,1068 1271,1075 1273,1083 1271,1090 1267,1097 1263,1100 1263,1105 1266,1107 1270,1114 1272,1122 1270,1129 1266,1136 1259,1140" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="2964,1076 2950,1075 2938,1069 2927,1061 2919,1050 2913,1038 2912,1025 2913,1011 2919,999 2927,988 2938,980 2950,974 2964,973 2977,974 2989,980 3000,988 3008,999 3014,1011 3015,1025 3014,1038 3008,1050 3000,1061 2989,1069 2977,1075" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="837,922 829,920 822,916 818,909 816,902 818,894 822,887 829,883 837,881 844,883 851,887 855,894 857,902 855,909 851,916 844,920" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="1405,1025 1365,1025 1357,1024 1350,1019 1345,1013 1344,1005 1344,817 1297,770 1126,770 1122,774 1124,782 1122,789 1118,796 1111,800 1104,802 1096,800 1089,796 1085,789 1083,782 1084,778 1080,774 1075,776 1065,774 1056,768 1050,759 1049,750 1050,740 1056,731 1065,725 1075,724 1084,725 1089,729 1306,729 1306,729 1314,730 1320,735 1379,794 1384,801 1385,809 1385,809 1385,984 1405,984 1413,985 1419,990 1424,997 1425,1005 1424,1013 1419,1019 1413,1024" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="2808,745 2801,744 2794,741 2789,737 2785,732 2782,725 2781,719 2782,712 2785,705 2789,700 2794,696 2801,693 2808,692 2814,693 2821,696 2826,700 2830,705 2833,712 2834,719 2833,725 2830,732 2826,737 2821,741 2814,744" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="2712,745 2705,744 2698,741 2693,737 2689,732 2686,725 2685,719 2686,712 2689,705 2693,700 2698,696 2705,693 2712,692 2718,693 2725,696 2730,700 2734,705 2737,712 2738,719 2737,725 2734,732 2730,737 2725,741 2718,744" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="2610,745 2603,744 2596,741 2591,737 2587,732 2584,725 2583,719 2584,712 2587,705 2591,700 2596,696 2603,693 2610,692 2616,693 2623,696 2628,700 2632,705 2635,712 2636,719 2635,725 2632,732 2628,737 2623,741 2616,744" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="2512,745 2505,744 2498,741 2493,737 2489,732 2486,725 2485,719 2486,712 2489,705 2493,700 2498,696 2505,693 2512,692 2518,693 2525,696 2530,700 2534,705 2537,712 2538,719 2537,725 2534,732 2530,737 2525,741 2518,744" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="2403,745 2396,744 2389,741 2384,737 2380,732 2377,725 2376,719 2377,712 2380,705 2384,700 2389,696 2396,693 2403,692 2409,693 2416,696 2421,700 2425,705 2428,712 2429,719 2428,725 2425,732 2421,737 2416,741 2409,744" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="2301,745 2294,744 2287,741 2282,737 2278,732 2275,725 2274,719 2275,712 2278,705 2282,700 2287,696 2294,693 2301,692 2307,693 2314,696 2319,700 2323,705 2326,712 2327,719 2326,725 2323,732 2319,737 2314,741 2307,744" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="1024,591 1014,589 1005,583 999,574 998,565 999,555 1005,546 1014,540 1024,539 1033,540 1042,546 1048,555 1050,565 1048,574 1042,583 1033,589" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <polygon net="0" points="1060,351 1050,349 1041,343 1035,334 1034,325 1035,315 1041,306 1050,300 1060,299 1069,300 1078,306 1084,315 1086,325 1084,334 1078,343 1069,349" stroke-width="0.0" stroke="#006600" fill="#006600" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="7" x1="1075" y1="750" x2="1306" y2="750" stroke-width="25" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="0" x1="1420" y1="1460" x2="1420" y2="1472" stroke-width="10" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="0" x1="1420" y1="1472" x2="1428" y2="1480" stroke-width="10" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="0" x1="1525" y1="1260" x2="1535" y2="1270" stroke-width="10" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="0" x1="1428" y1="1480" x2="1482" y2="1480" stroke-width="10" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="0" x1="1482" y1="1260" x2="1482" y2="1480" stroke-width="10" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="0" x1="1482" y1="1260" x2="1525" y2="1260" stroke-width="10" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="7" x1="1306" y1="750" x2="1365" y2="809" stroke-width="25" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="7" x1="1365" y1="809" x2="1365" y2="1005" stroke-width="25" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <line net="7" x1="1365" y1="1005" x2="1405" y2="1005" stroke-width="25" stroke="#ff9900" stroke-linecap="round" stroke-linejoin="round" opacity="1.0" layer="MID1" />
+    <circle net="7" cx="1075" cy="750" r="12" r1="17" r2="7" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="4" cx="1024" cy="565" r="12" r1="17" r2="7" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1530" cy="325" r="12" r1="17" r2="7" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1060" cy="325" r="12" r1="17" r2="7" stroke-width="10" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1870" cy="945" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1790" cy="945" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="8" cx="862" cy="1064" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="6" cx="1104" cy="782" r="8" r1="12" r2="5" stroke-width="7" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="400" cy="350" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="500" cy="295" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="500" cy="350" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="600" cy="295" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="400" cy="295" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="600" cy="350" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1540" cy="135" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1765" cy="135" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1650" cy="135" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2125" cy="150" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2275" cy="150" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2425" cy="150" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2300" cy="397" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1279" cy="854" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1209" cy="854" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1244" cy="854" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1174" cy="854" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="8" cx="837" cy="902" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="940" cy="769" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="900" cy="769" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="900" cy="819" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="940" cy="819" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="920" cy="794" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2609" cy="397" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2511" cy="397" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1823" cy="665" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1823" cy="615" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1823" cy="565" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1823" cy="515" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1823" cy="465" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1823" cy="415" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1773" cy="465" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1773" cy="515" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1773" cy="565" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1773" cy="615" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1773" cy="665" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1723" cy="465" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1673" cy="465" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1723" cy="515" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1673" cy="515" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1723" cy="565" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1673" cy="565" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1723" cy="615" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1673" cy="615" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1723" cy="665" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1673" cy="665" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1623" cy="565" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1623" cy="615" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1623" cy="665" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1573" cy="665" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1573" cy="615" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1573" cy="565" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1573" cy="515" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1773" cy="415" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1723" cy="415" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1673" cy="415" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1718" cy="1092" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1718" cy="992" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1718" cy="942" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1300" cy="538" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1250" cy="538" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1250" cy="588" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1300" cy="588" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1250" cy="488" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1300" cy="488" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1350" cy="488" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1350" cy="538" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1350" cy="588" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1573" cy="415" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1573" cy="465" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1622" cy="465" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1622" cy="515" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1622" cy="414" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1790" cy="1092" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1535" cy="1270" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1420" cy="1460" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1536" cy="1461" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1433" cy="1260" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1554" cy="1424" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1434" cy="1307" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2711" cy="397" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2807" cy="397" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2402" cy="397" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="4" cx="2403" cy="719" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="4" cx="2808" cy="719" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="4" cx="2712" cy="719" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="4" cx="2512" cy="719" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="4" cx="2610" cy="719" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="4" cx="2301" cy="719" r="14" r1="18" r2="10" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="943" cy="794" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="897" cy="794" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="920" cy="821" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="920" cy="768" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1223" cy="382" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1264" cy="384" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1314" cy="384" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1364" cy="384" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1222" cy="679" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1263" cy="681" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1313" cy="681" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1363" cy="681" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1620" cy="716" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1661" cy="718" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1711" cy="718" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1761" cy="718" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1632" cy="1174" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1673" cy="1176" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1723" cy="1176" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1773" cy="1176" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1868" cy="1179" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1870" cy="1138" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1447" cy="405" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1447" cy="455" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1447" cy="505" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1447" cy="555" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1447" cy="605" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="1447" cy="655" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1790" cy="995" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1870" cy="995" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1868" cy="1086" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="6" cx="1421" cy="1196" r="8" r1="12" r2="5" stroke-width="7" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="6" cx="1475" cy="865" r="8" r1="12" r2="5" stroke-width="7" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="2" cx="1252" cy="1122" r="8" r1="12" r2="5" stroke-width="7" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="2" cx="1253" cy="1083" r="8" r1="12" r2="5" stroke-width="7" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="2" cx="1252" cy="1047" r="8" r1="12" r2="5" stroke-width="7" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="2" cx="1253" cy="1010" r="8" r1="12" r2="5" stroke-width="7" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="7" cx="1365" cy="1005" r="8" r1="12" r2="5" stroke-width="7" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="7" cx="1405" cy="1005" r="8" r1="12" r2="5" stroke-width="7" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1870" cy="1045" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1790" cy="1045" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="10" cx="1718" cy="1042" r="8" r1="12" r2="4" stroke-width="8" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="4" cx="2964" cy="1025" r="37" r1="43" r2="31" stroke-width="12" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="2964" cy="385" r="37" r1="43" r2="31" stroke-width="12" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="0" cx="107" cy="341" r="37" r1="43" r2="31" stroke-width="12" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+    <circle net="2" cx="107" cy="1095" r="37" r1="43" r2="31" stroke-width="12" stroke="#ff9900" fill="#ffffff" opacity="1" layer="MULTILAYER" />
+  </g>
+</svg>
+

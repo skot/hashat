@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312.4px" height="152px" viewbox="0 0 312.4 152" version="1.1">
+  <title>LM2_5085_BUCK_DGN_A_top: null</title>
+  <desc>LM2_5085_BUCK_DGN_A WebTHERM&amp;reg; Board Layout file</desc>
+<defs>
+<g id="0805">
+  <g id="MASK" style="display:none;">
+  	<g style="display:inline;">
+  		<rect x="0.279" y="0.279" width="7.442" height="4.442"/>
+  		<path d="M7.442,0.558v3.884H0.558V0.558H7.442 M8,0H0v5h8V0L8,0z"/>
+  	</g>
+  </g>
+  <g id="COLOR">
+  	<rect style="fill:#CBCBCB;" width="8" height="5"/>
+  	<rect x="1.75" style="fill:#363636;" width="4.5" height="5"/>
+  </g>
+  <g id="OUTLINE" style="display:none;">
+  	<g style="display:inline;">
+  		<path d="M7.442,0.558v3.884H0.558V0.558H7.442 M8,0H0v5h8V0L8,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<path d="M5.656,0.594v3.812H2.344V0.594H5.656 M6.25,0h-4.5v5h4.5V0L6.25,0z"/>
+  	</g>
+  </g>
+</g>
+<g id="0603">
+  <g id="Mask" style="display:none;">
+  	<rect style="display:inline;" width="6.4" height="3.2"/>
+  	<rect x="1.6" style="display:inline;" width="3.2" height="3.2"/>
+  </g>
+  <g id="Outline" style="display:none;">
+  	<g style="display:inline;">
+  		<path d="M6.15,0.25v2.7h-5.9v-2.7H6.15 M6.4,0H0v3.2h6.4V0L6.4,0z"/>
+  	</g>
+  	<g style="display:inline;">
+  		<path d="M4.55,0.25v2.7h-2.7v-2.7H4.55 M4.8,0H1.6v3.2h3.2V0L4.8,0z"/>
+  	</g>
+  </g>
+  <g id="Color">
+  	<rect style="fill:#B3B3B3;" width="6.4" height="3.2"/>
+  	<rect x="1.6" style="fill:#1A1A1A;" width="3.2" height="3.2"/>
+  </g>
+</g>
+<g id="3528-21">
+  <g id="MASK" display="none">
+  	<rect x="0.542" y="0.5" display="inline" stroke="#000000" width="14" height="11.2"/>
+  </g>
+  <g id="COLOR">
+  	<rect x="0.568" y="0.5" fill="#999999" stroke="#000000" width="13.946" height="11.2"/>
+  	<rect x="2.385" y="0.455" stroke="#000000" width="4.218" height="11.244"/>
+  </g>
+  <g id="OUTLINE" display="none">
+  	<rect x="0.568" y="0.5" display="inline" fill="none" stroke="#000000" width="13.946" height="11.2"/>
+  	<rect x="2.385" y="0.455" display="inline" fill="none" stroke="#000000" width="4.218" height="11.244"/>
+  </g>
+</g>
+<g id="DDPAK">
+  <g id="MASK" display="none">
+  	<rect x="0.5" y="2.095" display="inline" stroke="#000000" width="4.77" height="38.678"/>
+  	<rect x="46.733" y="3.822" display="inline" stroke="#000000" width="18.181" height="6.248"/>
+  	<rect x="47.021" y="18.443" display="inline" stroke="#000000" width="8.608" height="6.38"/>
+  	<rect x="47.031" y="32.797" display="inline" stroke="#000000" width="17.597" height="6.513"/>
+  	<rect x="64.914" y="3.822" display="inline" stroke="#000000" width="3.586" height="6.248"/>
+  	<rect x="64.628" y="32.797" display="inline" stroke="#000000" width="3.872" height="6.516"/>
+  	<rect x="5.414" y="0.5" display="inline" stroke="#000000" width="41.466" height="42"/>
+  </g>
+  <g id="COLOR">
+  	<rect x="0.5" y="2.095" fill="#C9CDD3" stroke="#231F20" width="4.77" height="38.678"/>
+  	<rect x="46.733" y="3.822" fill="#C9CDD3" stroke="#231F20" width="18.181" height="6.248"/>
+  	<rect x="47.021" y="18.443" fill="#C9CDD3" stroke="#231F20" width="8.608" height="6.38"/>
+  	<rect x="46.939" y="32.797" fill="#C9CDD3" stroke="#231F20" width="17.688" height="6.513"/>
+  	<rect x="64.914" y="3.822" fill="#C9CDD3" stroke="#231F20" width="3.586" height="6.248"/>
+  	<rect x="64.628" y="32.797" fill="#C9CDD3" stroke="#231F20" width="3.872" height="6.516"/>
+  	<rect x="5.414" y="0.5" fill="#737A7F" stroke="#231F20" width="41.466" height="42"/>
+  </g>
+  <g id="OUTLINE" display="none">
+  	<rect x="0.5" y="2.095" display="inline" fill="none" stroke="#231F20" width="4.77" height="38.678"/>
+  	<rect x="46.919" y="3.822" display="inline" fill="none" stroke="#231F20" width="17.995" height="6.248"/>
+  	<rect x="47.021" y="18.443" display="inline" fill="none" stroke="#231F20" width="8.608" height="6.38"/>
+  	<rect x="47.031" y="32.797" display="inline" fill="none" stroke="#231F20" width="17.597" height="6.513"/>
+  	<rect x="64.914" y="3.822" display="inline" fill="none" stroke="#231F20" width="3.586" height="6.248"/>
+  	<rect x="64.628" y="32.797" display="inline" fill="none" stroke="#231F20" width="3.872" height="6.516"/>
+  	<rect x="5.414" y="0.5" display="inline" fill="none" stroke="#231F20" width="41.466" height="42"/>
+  </g>
+</g>
+<g id="IHLP-4040DZ">
+  <g id="Mask" display="none">
+  	<path display="inline" stroke="#000000" d="M43.1,39.7c0,1.105-0.895,2-2,2H3.9c-1.104,0-2-0.895-2-2V2.5c0-1.104,0.896-2,2-2h37.2
+  		c1.105,0,2,0.896,2,2V39.7z"/>
+  	<rect x="43.1" y="15.1" display="inline" stroke="#000000" width="1.4" height="12"/>
+  	<rect x="0.5" y="15.1" display="inline" stroke="#000000" width="1.4" height="12"/>
+  </g>
+  <g id="Color">
+  	<path fill="#808080" stroke="#000000" d="M43.1,39.7c0,1.105-0.895,2-2,2H3.9c-1.104,0-2-0.895-2-2V2.5c0-1.104,0.896-2,2-2h37.2
+  		c1.105,0,2,0.896,2,2V39.7z"/>
+  	<rect x="43.1" y="15.1" fill="#F2F2F2" stroke="#000000" width="1.4" height="12"/>
+  	<rect x="0.5" y="15.1" fill="#F2F2F2" stroke="#000000" width="1.4" height="12"/>
+  </g>
+  <g id="Outline" display="none">
+  	<path display="inline" fill="none" stroke="#000000" d="M43.1,39.7c0,1.105-0.895,2-2,2H3.9c-1.104,0-2-0.895-2-2V2.5
+  		c0-1.104,0.896-2,2-2h37.2c1.105,0,2,0.896,2,2V39.7z"/>
+  	<rect x="43.1" y="15.1" display="inline" fill="none" stroke="#000000" width="1.4" height="12"/>
+  	<rect x="0.5" y="15.1" display="inline" fill="none" stroke="#000000" width="1.4" height="12"/>
+  </g>
+</g>
+<g id="DNH0008A">
+  <g id="Mask" style="display:none;">
+  	<g id="Color_3_" style="display:inline;">
+  		<g>
+  			<rect x="0.125" y="0.125" width="12.95" height="12.95"/>
+  			<path d="M12.95,0.25v12.7H0.25V0.25H12.95 M13.2,0H0v13.2h13.2V0L13.2,0z"/>
+  		</g>
+  		<g>
+  			<circle cx="1.598" cy="1.876" r="0.476"/>
+  			<path d="M1.598,1.525c0.194,0,0.351,0.158,0.351,0.351S1.791,2.227,1.598,2.227c-0.194,0-0.351-0.158-0.351-0.351
+  				S1.404,1.525,1.598,1.525 M1.598,1.275c-0.332,0-0.601,0.269-0.601,0.601s0.269,0.601,0.601,0.601
+  				c0.332,0,0.601-0.269,0.601-0.601S1.93,1.275,1.598,1.275L1.598,1.275z"/>
+  		</g>
+  	</g>
+  </g>
+  <g id="Outline" style="display:none;">
+  	<g id="Color_2_" style="display:inline;">
+  		<g>
+  			<path d="M12.95,0.25v12.7H0.25V0.25H12.95 M13.2,0H0v13.2h13.2V0L13.2,0z"/>
+  		</g>
+  		<g>
+  			<path d="M1.598,1.525c0.194,0,0.351,0.158,0.351,0.351S1.791,2.227,1.598,2.227c-0.194,0-0.351-0.158-0.351-0.351
+  				S1.404,1.525,1.598,1.525 M1.598,1.275c-0.332,0-0.601,0.269-0.601,0.601s0.269,0.601,0.601,0.601
+  				c0.332,0,0.601-0.269,0.601-0.601S1.93,1.275,1.598,1.275L1.598,1.275z"/>
+  		</g>
+  	</g>
+  </g>
+  <g id="Color">
+  	<g id="Color_1_">
+  		<g>
+  			<rect x="0.125" y="0.125" style="fill:#404040;" width="12.95" height="12.95"/>
+  			<path d="M12.95,0.25v12.7H0.25V0.25H12.95 M13.2,0H0v13.2h13.2V0L13.2,0z"/>
+  		</g>
+  		<g>
+  			<circle cx="1.598" cy="1.876" r="0.476"/>
+  			<path d="M1.598,1.525c0.194,0,0.351,0.158,0.351,0.351S1.791,2.227,1.598,2.227c-0.194,0-0.351-0.158-0.351-0.351
+  				S1.404,1.525,1.598,1.525 M1.598,1.275c-0.332,0-0.601,0.269-0.601,0.601s0.269,0.601,0.601,0.601
+  				c0.332,0,0.601-0.269,0.601-0.601S1.93,1.275,1.598,1.275L1.598,1.275z"/>
+  		</g>
+  	</g>
+  </g>
+</g>
+<g id="0402">
+  <g id="MASK" display="none">
+  	<g display="inline">
+  		<rect x="0.125" y="0.125" width="3.752" height="1.757"/>
+  		<path d="M3.752,0.25v1.507H0.25V0.25H3.752 M4.002,0H0v2.007h4.002V0L4.002,0z"/>
+  	</g>
+  </g>
+  <g id="COLOR">
+  	<rect fill="#CBCBCB" width="4.002" height="2.007"/>
+  	<rect x="1.008" fill="#363636" width="1.986" height="2.007"/>
+  </g>
+  <g id="OUTLINE">
+  	<g>
+  		<path d="M3.752,0.25v1.507H0.25V0.25H3.752 M4.002,0H0v2.007h4.002V0L4.002,0z"/>
+  	</g>
+  	<g>
+  		<path d="M2.744,0.25v1.507H1.258V0.25H2.744 M2.994,0H1.008v2.007h1.986V0L2.994,0z"/>
+  	</g>
+  </g>
+</g>
+<g id="0201">
+  <g id="Mask" display="none">
+  	<rect x="0.5" y="0.5" display="inline" stroke="#000000" width="2.4" height="1.2"/>
+  </g>
+  <g id="Color">
+  	<rect x="0.5" y="0.5" fill="#404040" stroke="#000000" width="2.4" height="1.2"/>
+  </g>
+  <g id="Outline" display="none">
+  	<rect x="0.5" y="0.5" display="inline" fill="none" stroke="#000000" width="2.4" height="1.2"/>
+  </g>
+</g>
+<g id="1206">
+  <g>
+  	<rect x="0.5" y="0.5" fill="#5B5B5B" stroke="#000000" width="13" height="7"/>
+  	<rect x="0.5" y="0.5" fill="#C6C6C6" stroke="#000000" width="3" height="7"/>
+  	<rect x="10.5" y="0.501" fill="#C6C6C6" stroke="#000000" width="3" height="6.999"/>
+  </g>
+</g>
+<g id="MUY08A">
+  <g id="Mask" display="none">
+  	<g display="inline">
+  		<rect x="0.5" y="2.024" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" width="19.538" height="1.219"/>
+  		<rect x="0.5" y="4.614" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" width="19.538" height="1.22"/>
+  		<rect x="0.5" y="7.205" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" width="19.538" height="1.22"/>
+  		<rect x="0.5" y="9.795" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" width="19.538" height="1.219"/>
+  		<path stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M4.795,12.5c-0.275,0-0.498-0.224-0.498-0.499V0.998
+  			C4.297,0.723,4.52,0.5,4.795,0.5h10.976c0.275,0,0.498,0.223,0.498,0.498v11.003c0,0.275-0.223,0.499-0.498,0.499H4.795z"/>
+  		<path stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M5.077,2.703c0-0.77,0.625-1.395,1.396-1.395
+  			c0.77,0,1.395,0.625,1.395,1.395H5.077z"/>
+  	</g>
+  </g>
+  <g id="Color">
+  	
+  		<rect x="0.5" y="2.024" fill="#FFFFFF" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" width="19.538" height="1.219"/>
+  	
+  		<rect x="0.5" y="4.614" fill="#FFFFFF" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" width="19.538" height="1.22"/>
+  	
+  		<rect x="0.5" y="7.205" fill="#FFFFFF" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" width="19.538" height="1.22"/>
+  	
+  		<rect x="0.5" y="9.795" fill="#FFFFFF" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" width="19.538" height="1.219"/>
+  	<path fill="#808080" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M4.795,12.5
+  		c-0.275,0-0.498-0.224-0.498-0.499V0.998C4.297,0.723,4.52,0.5,4.795,0.5h10.976c0.275,0,0.498,0.223,0.498,0.498v11.003
+  		c0,0.275-0.223,0.499-0.498,0.499H4.795z"/>
+  	<path fill="#808080" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M5.077,2.703
+  		c0-0.77,0.625-1.395,1.396-1.395c0.77,0,1.395,0.625,1.395,1.395H5.077z"/>
+  </g>
+  <g id="Outline" display="none">
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M0.5,2.024v1.219h3.978
+  		c0-0.42,0-0.827,0-1.219H0.5z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M20.038,3.244V2.024
+  		h-3.561c0,0.415,0,0.821,0,1.219H20.038z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M20.038,5.834v-1.22
+  		h-3.561c0,0.409,0,0.816,0,1.22H20.038z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M0.5,4.614v1.22h3.978
+  		c0-0.412,0-0.818,0-1.22H0.5z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M20.038,8.424v-1.22
+  		h-3.561c0,0.402,0,0.81,0,1.22H20.038z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M0.5,7.205v1.22h3.978
+  		c0-0.404,0-0.811,0-1.22H0.5z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M20.038,11.014V9.795
+  		h-3.561c0,0.397,0,0.805,0,1.219H20.038z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M0.5,9.795v1.219h3.978
+  		c0-0.396,0-0.802,0-1.219H0.5z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M4.795,12.5
+  		c-0.275,0-0.498-0.224-0.498-0.499V0.998C4.297,0.723,4.52,0.5,4.795,0.5h10.976c0.275,0,0.498,0.223,0.498,0.498v11.003
+  		c0,0.275-0.223,0.499-0.498,0.499H4.795z"/>
+  	<path display="inline" fill="none" stroke="#000000" stroke-linecap="square" stroke-miterlimit="10" d="M5.077,2.703
+  		c0-0.77,0.625-1.395,1.396-1.395c0.77,0,1.395,0.625,1.395,1.395H5.077z"/>
+  </g>
+</g>
+</defs>
+<g id="boardComps">
+  <g id="topview_images">
+    <use x="97.0" y="33.0" width="8.0" height="5.0" transform="rotate(-270.0 101.0 35.0)" name="5_Cadj_0805" xlink:href="#0805" />
+    <use x="85.0" y="100.0" width="6.0" height="3.0" transform="rotate(-180.0 88.0 101.0)" name="12_Cff_0603" xlink:href="#0603" />
+    <use x="61.0" y="102.0" width="8.0" height="5.0" transform="rotate(-270.0 65.0 105.0)" name="18_Cin_1_0805" xlink:href="#0805" />
+    <use x="50.0" y="102.0" width="8.0" height="5.0" transform="rotate(-270.0 54.0 105.0)" name="18_Cin_2_0805" xlink:href="#0805" />
+    <use x="39.0" y="102.0" width="8.0" height="5.0" transform="rotate(-270.0 43.0 105.0)" name="18_Cin_3_0805" xlink:href="#0805" />
+    <use x="226.0" y="92.0" width="15.0" height="12.0" transform="rotate(-270.0 233.0 98.0)" name="13_Cout_3528-21" xlink:href="#3528-21" />
+    <use x="106.0" y="56.0" width="8.0" height="5.0" transform="rotate(-270.0 110.0 58.0)" name="7_Cvcc_0805" xlink:href="#0805" />
+    <use x="140.0" y="79.0" width="69.0" height="43.0" transform="rotate(-180.0 174.0 100.0)" name="26_D1_DDPAK" xlink:href="#DDPAK" />
+    <rect x="297.0" y="110.0" width="6.0" height="6.0" name="23_GND_TP-1502" style="fill:white;stroke:black;stroke-width:1;" />
+    <rect x="7.0" y="114.0" width="6.0" height="6.0" name="24_GND1_TP-1502" style="fill:white;stroke:black;stroke-width:1;" />
+    <use x="201.0" y="32.0" width="45.0" height="42.0" name="4_L1_IHLP-4040DZ" xlink:href="#IHLP-4040DZ" />
+    <use x="135.0" y="38.0" width="13.0" height="13.0" transform="rotate(-180.0 142.0 45.0)" name="1_M1_DNH0008A" xlink:href="#DNH0008A" />
+    <use x="91.0" y="34.0" width="4.0" height="2.0" transform="rotate(-270.0 93.0 35.0)" name="11_Radj_0402" xlink:href="#0402" />
+    <use x="86.0" y="82.0" width="4.0" height="2.0" name="9_Rfb1_0402" xlink:href="#0402" />
+    <use x="87.0" y="92.0" width="3.0" height="2.0" transform="rotate(-180.0 88.0 93.0)" name="8_Rfb2_0201" xlink:href="#0201" />
+    <use x="73.0" y="72.0" width="4.0" height="2.0" transform="rotate(-90.0 75.0 73.0)" name="6_Rt_0402" xlink:href="#0402" />
+    <use x="83.0" y="65.0" width="20.0" height="13.0" name="10_U1_MUY08A" xlink:href="#MUY08A" />
+    <rect x="7.0" y="38.0" width="6.0" height="6.0" name="25_VIN_TP-1502" style="fill:white;stroke:black;stroke-width:1;" />
+    <rect x="297.0" y="45.0" width="6.0" height="6.0" name="22_VOUT_TP-1502" style="fill:white;stroke:black;stroke-width:1;" />
+  </g>
+</g>
+</svg>
