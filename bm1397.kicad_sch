@@ -2389,39 +2389,6 @@
     )
   )
 
-  (symbol (lib_id "Connector:TestPoint") (at 36.83 153.67 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 1ba465c1-7586-4270-820e-8b74cbb25261)
-    (property "Reference" "TP2" (at 30.48 153.67 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "TestPoint" (at 31.115 154.9399 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 36.83 158.75 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 36.83 158.75 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "DNP" "T" (at 36.83 153.67 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 558752c6-79ef-45ca-9aac-cdf070b77fa5))
-    (instances
-      (project "Hashat"
-        (path "/00740941-7ad8-466a-a267-188591e2b5c4/5aa25910-cf6c-433c-86f8-40d28be84b47"
-          (reference "TP2") (unit 1)
-        )
-      )
-      (project "bitaxeMax"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
-          (reference "TP2") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:R_US") (at 40.64 88.9 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 200121db-fe41-4fc4-ab96-d7f59163f6c0)
@@ -2858,39 +2825,6 @@
     )
   )
 
-  (symbol (lib_id "Connector:TestPoint") (at 36.83 158.75 90) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 4f44816d-2301-4c42-8190-f15795a4473d)
-    (property "Reference" "TP4" (at 30.48 158.75 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "TestPoint" (at 31.115 160.0199 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 36.83 163.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 36.83 163.83 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "DNP" "T" (at 36.83 158.75 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 85e7b821-978a-4045-9d3f-d4a47d16ff4f))
-    (instances
-      (project "Hashat"
-        (path "/00740941-7ad8-466a-a267-188591e2b5c4/5aa25910-cf6c-433c-86f8-40d28be84b47"
-          (reference "TP4") (unit 1)
-        )
-      )
-      (project "bitaxeMax"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
-          (reference "TP4") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:R_US") (at 78.74 72.39 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp yes)
     (uuid 53168963-70ed-42cc-95dd-352a626a1900)
@@ -2923,39 +2857,6 @@
       (project "bitaxeMax"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
           (reference "R6") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Connector:TestPoint") (at 36.83 156.21 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 537340a5-fc7a-4673-8225-d6823b369f54)
-    (property "Reference" "TP3" (at 30.48 156.21 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "TestPoint" (at 31.115 154.9401 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm" (at 36.83 151.13 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 36.83 151.13 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "DNP" "T" (at 36.83 156.21 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 521a200e-ce78-4dfa-99dc-6cdc69b39670))
-    (instances
-      (project "Hashat"
-        (path "/00740941-7ad8-466a-a267-188591e2b5c4/5aa25910-cf6c-433c-86f8-40d28be84b47"
-          (reference "TP3") (unit 1)
-        )
-      )
-      (project "bitaxeMax"
-        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7"
-          (reference "TP3") (unit 1)
         )
       )
     )
