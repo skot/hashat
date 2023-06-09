@@ -1,3 +1,5 @@
+WIP - don't order PCBs yet!
+
 # hashat
 A Bitcoin ASIC mining HAT for Raspberry Pi
 
