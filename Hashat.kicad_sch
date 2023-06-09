@@ -217,7 +217,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 74.93 173.355 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0fc1c942-a223-4c62-abef-cb8f1018684f)
     (property "Reference" "H3" (at 77.47 172.0849 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -252,7 +252,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 100.965 172.72 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 47255172-9970-484a-bcd9-8e1946c38b62)
     (property "Reference" "H5" (at 103.505 171.4499 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -284,7 +284,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 100.965 180.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7f6badef-edc2-4fa1-910b-5ffa09afbd87)
     (property "Reference" "H6" (at 103.505 179.0699 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -316,7 +316,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 74.93 160.655 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aa9de4eb-91e1-4c9d-ba2c-572bd51c328e)
     (property "Reference" "H1" (at 77.47 159.3849 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -351,7 +351,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 74.93 180.34 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3a9eb75-037d-4de0-a978-58e4cdbfb65c)
     (property "Reference" "H4" (at 77.47 179.0699 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -386,7 +386,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 74.93 167.005 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c9664596-e010-4264-9cd6-bdfb420b0a88)
     (property "Reference" "H2" (at 77.47 165.7349 0)
       (effects (font (size 1.27 1.27)) (justify left))
